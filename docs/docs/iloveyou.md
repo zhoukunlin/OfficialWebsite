@@ -8,7 +8,6 @@ tags:
   - 自我反思
 by: 周坤琳 ©️
 ---
-# 现实中的距离
 
 <div style="overflow: hidden; ">
     <div style="float: left; width: calc(50% - 5px); ">
