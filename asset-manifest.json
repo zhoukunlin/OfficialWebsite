@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0fa6a4a.css",
-    "main.js": "/static/js/main.c84159d2.js",
+    "main.css": "/static/css/main.48061ac4.css",
+    "main.js": "/static/js/main.56880d4e.js",
     "static/js/453.8acf5147.chunk.js": "/static/js/453.8acf5147.chunk.js",
     "static/media/aliPay.JPG": "/static/media/aliPay.df030212ca3a7c50168e.JPG",
     "static/media/weChatQR.JPG": "/static/media/weChatQR.eca9cde51265aea21b2d.JPG",
@@ -9,12 +9,12 @@
     "static/media/zhoukunlinLogoWhiteCharacter.svg": "/static/media/zhoukunlinLogoWhiteCharacter.7c705781671a5f50a6d3d0b645bc0e58.svg",
     "index.html": "/index.html",
     "static/media/icon_search_default.svg": "/static/media/icon_search_default.b7287175dad4c1612a24.svg",
-    "main.b0fa6a4a.css.map": "/static/css/main.b0fa6a4a.css.map",
-    "main.c84159d2.js.map": "/static/js/main.c84159d2.js.map",
+    "main.48061ac4.css.map": "/static/css/main.48061ac4.css.map",
+    "main.56880d4e.js.map": "/static/js/main.56880d4e.js.map",
     "453.8acf5147.chunk.js.map": "/static/js/453.8acf5147.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0fa6a4a.css",
-    "static/js/main.c84159d2.js"
+    "static/css/main.48061ac4.css",
+    "static/js/main.56880d4e.js"
   ]
 }
