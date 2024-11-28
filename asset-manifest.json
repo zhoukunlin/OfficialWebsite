@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.48061ac4.css",
-    "main.js": "/static/js/main.72d06295.js",
+    "main.css": "/static/css/main.0573256d.css",
+    "main.js": "/static/js/main.cbbec4d3.js",
     "static/js/453.8acf5147.chunk.js": "/static/js/453.8acf5147.chunk.js",
     "static/media/aliPay.JPG": "/static/media/aliPay.df030212ca3a7c50168e.JPG",
     "static/media/weChatQR.JPG": "/static/media/weChatQR.eca9cde51265aea21b2d.JPG",
@@ -9,12 +9,12 @@
     "static/media/zhoukunlinLogoWhiteCharacter.svg": "/static/media/zhoukunlinLogoWhiteCharacter.7c705781671a5f50a6d3d0b645bc0e58.svg",
     "index.html": "/index.html",
     "static/media/icon_search_default.svg": "/static/media/icon_search_default.b7287175dad4c1612a24.svg",
-    "main.48061ac4.css.map": "/static/css/main.48061ac4.css.map",
-    "main.72d06295.js.map": "/static/js/main.72d06295.js.map",
+    "main.0573256d.css.map": "/static/css/main.0573256d.css.map",
+    "main.cbbec4d3.js.map": "/static/js/main.cbbec4d3.js.map",
     "453.8acf5147.chunk.js.map": "/static/js/453.8acf5147.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48061ac4.css",
-    "static/js/main.72d06295.js"
+    "static/css/main.0573256d.css",
+    "static/js/main.cbbec4d3.js"
   ]
 }
